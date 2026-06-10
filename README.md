@@ -24,7 +24,8 @@ The statistical unit of analysis is the **key entry** (e.g., "1a.", "1b.", "2a."
 
 ## 2. File Description
 
-### Key to the Vascular Plants of Inner Mongolia.pdf
+### 内蒙古维管植物检索表.pdf 
+(*Key to the Vascular Plants of Inner Mongolia*, ISBN: 978-7-03-040698-9)
 
 Original reference document.
 
