@@ -101,8 +101,6 @@ def build_significance_letters(categories, pairwise_df):
         如果两类差异显著，则不能共用同一字母；
         如果两类差异不显著，则尽量共用同一字母。
 
-    注意：
-        这是课程作业展示用的简化分组算法。
     """
 
     significant_pairs = set()
